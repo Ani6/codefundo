@@ -1,0 +1,3 @@
+/ logging out of Parse
+ParseUser.logOut();
+alertDisplayer("Thank you for being a blood donor...", "With GREAT blood comes GREAT responsibility");
